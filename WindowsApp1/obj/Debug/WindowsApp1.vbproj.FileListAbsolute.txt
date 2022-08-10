@@ -1,0 +1,13 @@
+E:\gitejercicio1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\gitejercicio1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\gitejercicio1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\gitejercicio1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\gitejercicio1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\gitejercicio1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\gitejercicio1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\gitejercicio1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\gitejercicio1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\gitejercicio1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\gitejercicio1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\gitejercicio1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\gitejercicio1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
