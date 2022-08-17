@@ -30,7 +30,7 @@ Partial Class Form1
         '
         'salir1
         '
-        Me.salir1.Location = New System.Drawing.Point(111, 127)
+        Me.salir1.Location = New System.Drawing.Point(107, 270)
         Me.salir1.Name = "salir1"
         Me.salir1.Size = New System.Drawing.Size(75, 23)
         Me.salir1.TabIndex = 4
@@ -39,7 +39,7 @@ Partial Class Form1
         '
         'salir2
         '
-        Me.salir2.Location = New System.Drawing.Point(111, 261)
+        Me.salir2.Location = New System.Drawing.Point(107, 131)
         Me.salir2.Name = "salir2"
         Me.salir2.Size = New System.Drawing.Size(75, 23)
         Me.salir2.TabIndex = 5

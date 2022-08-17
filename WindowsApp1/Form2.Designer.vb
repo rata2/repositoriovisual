@@ -31,7 +31,7 @@ Partial Class Form2
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(47, 87)
+        Me.Label1.Location = New System.Drawing.Point(30, 88)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(224, 13)
         Me.Label1.TabIndex = 0
@@ -40,7 +40,7 @@ Partial Class Form2
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(70, 216)
+        Me.Label2.Location = New System.Drawing.Point(60, 217)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(157, 13)
         Me.Label2.TabIndex = 1
@@ -52,7 +52,7 @@ Partial Class Form2
         Me.cerrar1.Name = "cerrar1"
         Me.cerrar1.Size = New System.Drawing.Size(75, 23)
         Me.cerrar1.TabIndex = 2
-        Me.cerrar1.Text = "salir1"
+        Me.cerrar1.Text = "Salir"
         Me.cerrar1.UseVisualStyleBackColor = True
         '
         'cerrar2
@@ -61,7 +61,7 @@ Partial Class Form2
         Me.cerrar2.Name = "cerrar2"
         Me.cerrar2.Size = New System.Drawing.Size(75, 23)
         Me.cerrar2.TabIndex = 3
-        Me.cerrar2.Text = "salir2"
+        Me.cerrar2.Text = "Salir"
         Me.cerrar2.UseVisualStyleBackColor = True
         '
         'Form2
@@ -74,6 +74,7 @@ Partial Class Form2
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form2"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Form2"
         Me.ResumeLayout(False)
         Me.PerformLayout()
